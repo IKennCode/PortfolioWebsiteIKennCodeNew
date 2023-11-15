@@ -191,6 +191,8 @@ img {
 }
 
 /*===== HOME =====*/
+
+
 .home {
     position: relative;
     row-gap: 5rem;
@@ -385,7 +387,7 @@ img {
 
 /* ===== WORK =====*/
 .work__container {
-    row-gap: 2rem;
+    row-gap: 1rem;
 }
 
 .work__img {
@@ -400,6 +402,7 @@ img {
 
 .work__img img:hover {
     transform: scale(1.1);
+    cursor: pointer;
 }
 
 /* ===== CONTACT =====*/
