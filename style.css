@@ -398,7 +398,7 @@ img {
 }
 
 .work__img img {
-    transition: 1s;
+    transition: 0.25s;
 }
 
 .work__img img:hover {
